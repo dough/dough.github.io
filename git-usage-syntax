@@ -1,0 +1,10 @@
+    git remote -v
+    ls
+    git add index.html they.html
+    git commit -m "new beginning"
+    git push
+    dir
+    cp ../../Worksites/dough.github.io/index.html .
+    git add --all
+    git commit -m "first serious index.html"
+    git push

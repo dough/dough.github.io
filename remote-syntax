@@ -1,0 +1,5 @@
+This syntax shows is should use GH login for security
+for which username and password are stored locally,
+===========================================================O
+origin	https://github.com/dough/dough.github.io.git (fetch)
+origin	https://github.com/dough/dough.github.io.git (push)
