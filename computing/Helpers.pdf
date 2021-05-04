@@ -1,8 +1,0 @@
-Most of the things we see around us can be ckassified into one of **The 4 P's**.
-A display screen is a **Push** and will output even if noone is watching.
-
-A keyboard is a **Push** which just waits for someone to type, and may just discard its
-output if no computer is attached.
-
-A computer is a **Pump**, which probably has a **Push** attached for its output,
-and a **Pull** for its inputs in hopes that someone will type. Or it may be busily proccesing data from some device such as a thermostat that constantly **Push**es what it has learned.
